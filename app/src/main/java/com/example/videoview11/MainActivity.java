@@ -52,7 +52,7 @@ public class MainActivity extends AppCompatActivity {
                 // ...
                 video();
             } else {
-                // Si se negó el permiso, mostrar un mensaje al usuario o cerrar la aplicación
+                // Si se negó el permiso, mostrar un mensaje al usuario o cerrar la aplicaciónes
                 // ...
                 Toast.makeText(this, "Se ha negado el permiso", Toast.LENGTH_SHORT).show();
             }
